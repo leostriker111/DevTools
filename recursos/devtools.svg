@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="DevTools">
+  <rect width="256" height="256" rx="56" fill="#eef2f5"/>
+  <g stroke="#1b2430" stroke-width="16" stroke-linecap="round">
+    <line x1="46" y1="72" x2="46" y2="92"/>
+    <line x1="82" y1="48" x2="82" y2="116"/>
+    <line x1="118" y1="62" x2="118" y2="102"/>
+    <line x1="154" y1="38" x2="154" y2="126"/>
+    <line x1="190" y1="66" x2="190" y2="98"/>
+  </g>
+  <g fill="#e9a13b" stroke="#1b2430" stroke-width="7">
+    <rect x="46" y="150" width="40" height="40" rx="6"/>
+    <rect x="130" y="150" width="40" height="40" rx="6"/>
+    <rect x="88" y="192" width="40" height="40" rx="6"/>
+  </g>
+  <g fill="#ffffff" stroke="#1b2430" stroke-width="7">
+    <rect x="88" y="150" width="40" height="40" rx="6"/>
+    <rect x="172" y="150" width="40" height="40" rx="6"/>
+    <rect x="46" y="192" width="40" height="40" rx="6"/>
+    <rect x="130" y="192" width="40" height="40" rx="6"/>
+  </g>
+</svg>
