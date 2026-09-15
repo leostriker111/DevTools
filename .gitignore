@@ -1,3 +1,7 @@
 __pycache__/
 *.pyc
 *.pyo
+
+# Archivos de prueba generados al ejecutarlo.
+test_roundtrip.png
+test_sprite*.png
